@@ -4,7 +4,7 @@
 ```shell
 pip3 install -r requirements.txt
 ```
-2.
+2. 3 snakes appear
 ```shell
 python3 main.py
 ```
